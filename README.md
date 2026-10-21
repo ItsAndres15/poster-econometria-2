@@ -1,2 +1,2 @@
 # poster-econometria-2
-Santiago Fonseca - Andres escobar - Andres Aldana 
+Santiago Fonseca - Andres Escobar - Andres Aldana 
